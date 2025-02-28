@@ -1,1 +1,1 @@
-# SparshAnalyst24
+# Business Insights & Transaction Analysis
